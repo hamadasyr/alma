@@ -14,7 +14,7 @@ No external dependencies. Copy `alma.py` into your project or install once a pac
 is published:
 
 ```bash
-pip install alma-framework   # (future)
+pip install alma-framework
 ```
 
 ---
